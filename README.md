@@ -1,23 +1,11 @@
-# Vida de Estudante
+# Linkurtator
 
-`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`Desenvolvimento de aplicação web front-end`
+O objetivo geral deste projeto é a criação de um encurtador de link.
 
-`1º semestre/2022`
+## Desenvolvedor
+Davi de Assis Vilela
 
-O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos universitários a busca e troca de fontes de informações e conhecimentos entre seus colegas discentes.
-
-## Integrantes
-
-* Anna Luiza de Angelis Souza Freitas
-* Daiane Campos Procópio
-* Fernanda Augusta de Barcelos Coura
-* Rúbia Karina Prado Costa
-
-## Orientadora
-
-* Joyce Christina de Paiva Carvalho
 
 # Documentação
 
